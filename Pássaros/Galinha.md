@@ -7,7 +7,8 @@
 - Galinha Pé Duro
 - Galinha Da Angola
 - Galinha De Granja
-
-[Galinha](galinha.jpg)
-
- _"A Imagem mostra 2 Galinhas no chiqueiro"_
+#
+<div style="text-align: center;">
+  <img src="galinha.jpg" alt="Sem Galinhas">
+  <p><em>"A Imagem mostra 2 Galinhas no chiqueiro"</em></p>
+</div>
