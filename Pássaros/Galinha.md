@@ -9,6 +9,6 @@
 - Galinha De Granja
 #
 <div style="text-align: center;">
-  <img src="galinha.jpg" alt="Sem Galinhas">
+  <img src="imagens/galinha.jpg" alt="Sem Galinhas">
   <p><em>"A Imagem mostra 2 Galinhas no chiqueiro"</em></p>
 </div>
