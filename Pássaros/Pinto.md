@@ -10,7 +10,8 @@
 
 ### Meu Pintinho Amarelinho
 - Música Infantil
-#####- Letra da Música:
+  
+_Letra da Música:_
 
 Meu pintinho amarelinho
 Cabe aqui na minha mão (na minha mão)
