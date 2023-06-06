@@ -8,6 +8,6 @@
 - Galinha Da Angola
 - Galinha De Granja
 
-[Galinha](\assets\galinha.jpg)
+[Galinha](galinha.jpg)
 
  _"A Imagem mostra 2 Galinhas no chiqueiro"_
