@@ -7,3 +7,7 @@
 - Galinha Pé Duro
 - Galinha Da Angola
 - Galinha De Granja
+
+[Galinha](\assets\galinha.jpg)
+
+ _"A Imagem mostra 2 Galinhas no chiqueiro"_
